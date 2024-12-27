@@ -11,14 +11,13 @@ This project focuses on solving and analyzing a non-linear equation. It includes
 
 ## Requirements
 The script requires the following Python libraries:
-- `control`
 - `matplotlib`
 - `numpy`
 - `sympy`
 
 You can install these dependencies using pip:
 ```bash
-pip install control matplotlib numpy sympy
+pip install matplotlib numpy sympy
 ```
 
 ## Usage
