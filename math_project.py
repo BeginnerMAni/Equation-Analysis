@@ -1,11 +1,10 @@
 """
 Python Project
 Subject: Mathematics
-Focus: Solving a non-linear equation
+Focus: Solving a non-linear equation, Sensitivity Analysis, Stability Analysis
 """
 
 #Importing Libraries such as matplotlib, numpy and sympy
-from control import *
 import matplotlib.pyplot as plt
 import numpy as np
 from sympy.solvers import solve
